@@ -1,5 +1,5 @@
 # ShellShockersHack
-Updated Hack for Shell Shockers
+Updated Hack for Shell Shockers http://shellshockers.io
 
 # IMPORTANT FOR DOWNLOAD
 DO NOT DOWNLOAD THE EXT FOLDER AND LOAD AS A CHROME EXTENSION. THAT FOLDER IS FOR DEVELOPERS.
@@ -10,7 +10,7 @@ If the update is older than 30 days old you need to re-upload the hack file.
 
 # To re-upload the hack file :
 1. Download shellshock.min.js
-2. Go here : https://www.filesend.jp/l/en-US/jeYdXG
+2. Go here : https://www.filesend.jp/l/en-US/jeYdXG (Note you can use a different service but it needs to be https)
 3. Upload shellshock.min.js
 4. Right click on download button and copy the download link
 5. Go to the Chrome Extension Folder and open content.js
