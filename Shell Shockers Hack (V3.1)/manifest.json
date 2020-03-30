@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Shell Shockers Hack",
+  "version": "3.1",
+  "author": "TDStuart",
+  "description": "by TDStuart",
+
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["https://shellshock.io/*"]
+  }]
+
+}
