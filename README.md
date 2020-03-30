@@ -10,7 +10,7 @@ If the update is older than 30 days old you need to re-upload the hack file.
 
 # To re-upload the hack file :
 1. Download shellshock.min.js
-2. Go here : https://www.filesend.jp/l/en-US/jeYdXG (Note you can use a different service but it needs to be https)
+2. Go here : https://www.filesend.jp (Note you can use a different service but it needs to be https)
 3. Upload shellshock.min.js
 4. Right click on download button and copy the download link
 5. Go to the Chrome Extension Folder and open content.js
