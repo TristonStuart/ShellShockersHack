@@ -1,6 +1,9 @@
 # ShellShockersHack
 Updated Hack for Shell Shockers http://shellshockers.io
 
+# Discord
+Join the discord (https://discord.gg/yURdHD) for the newest releases and incase I am away others will post updates there.
+
 # IMPORTANT FOR DOWNLOAD
 DO NOT DOWNLOAD THE **Developer Extension** FOLDER AND LOAD AS A CHROME EXTENSION. THAT FOLDER IS FOR DEVELOPERS.
 
